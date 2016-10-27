@@ -1,6 +1,6 @@
 {
   "name": "pikaday-angular",
-  "version": "2.0.2",
+  "version": "2.0.5",
   "description": "an AngularJS directive wraper that aims to make using Pikaday with Angular as simple as possible.",
   "main": "pikaday-angular.js",
   "scripts": {
